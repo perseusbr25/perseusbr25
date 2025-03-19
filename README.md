@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Javascript and python developer<br>- System Analyst @bratronic<br>-</p>
+<p align="left">- Javascript and python developer<br>- System Analyst @bratronic<br>- Study all time</p>
 
 ###
 
