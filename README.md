@@ -1,4 +1,4 @@
-<h1 align="left">Salve galera, sou Matheus Peralta desenvolvedor backend e entusiasta na programação</h1>
+<h1 align="left">Sou Matheus Peralta desenvolvedor backend e entusiasta na programação</h1>
 
 ###
 
